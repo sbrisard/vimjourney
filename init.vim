@@ -7,3 +7,4 @@ set background=light
 
 set expandtab
 set textwidth=80
+language en_US.UTF-8
